@@ -14,4 +14,4 @@ The matlab code is easy to use.
 Example:
 
 
-Jan Christin Brønd
+Jan Christian Brønd
